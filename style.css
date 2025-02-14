@@ -1,0 +1,85 @@
+h1.cabeza {
+    text-align: center;
+    color: red
+}
+
+body.fondohtm {
+    background-color: rgb(226, 140, 83)
+}
+
+img.carta {
+    margin-left: 150px;
+    width: 20%;
+    height: 20%;
+}
+
+img.cafe {
+    margin-top: 125px;
+    margin-left: 375px;
+    width: 27%;
+    height: 37%;
+}
+
+img.contacto {
+    margin-top: 110px;
+    margin-left: 700px;
+    width: 20%;
+    height: 20%;
+}
+
+a.cartatexto {
+    position: relative;
+    top: 200px;
+    left: 80px;
+}
+
+a.cafetexto{
+    position: relative;
+    top: 315px;
+    left: 310px;
+}
+
+a.contactotexto {
+    position: relative;
+    top: 300px;
+    left: 625px;
+}
+
+div.Cartahtm {
+    color: red;
+}
+
+h1.CartaCabeza {
+    color: rgb(61, 6, 6);
+    text-align: center;
+}
+
+body.fondocarta {
+    background-color: rgb(226, 140, 83);
+}
+
+body.fondocafe {
+    background-color: rgb(226, 140, 83);
+}
+
+div.Cafehtm {
+    color: red;
+}
+
+h1.cafecabeza {
+    text-align: center;
+    color: rgb(61, 6, 6);
+}
+
+body.fondocontacto {
+    background-color: rgb(226, 140, 83);
+}
+
+h1.contactocabeza {
+    color: rgb(61, 6, 6);
+    text-align: center;
+}
+
+div.contactohtm {
+    color: red;
+}
